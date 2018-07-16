@@ -11,7 +11,7 @@
 }
 
 .schedule {
-    grid-column: 3/4; //schedule-s /schedule-e
+    grid-column: schedule-s/schedule-e;
     position: relative;
     height: 100%;
     width: 100%;
