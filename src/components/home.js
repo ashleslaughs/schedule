@@ -7,8 +7,8 @@ import Schedule from './schedule/schedule';
   render() {
     return (
       <div className="home">
-        <Library />
-        <Schedule /> 
+        <Library/>
+        <Schedule/> 
       </div>
     );
   }

@@ -24,7 +24,7 @@ class LibraryCourse extends Component {
                 </div> 
             </div>
         )
-    }
+    };
 }
 
 export default connect(null, actions)(LibraryCourse); 
